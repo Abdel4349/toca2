@@ -38,7 +38,7 @@
 
 	"INTER_INTERVAL":1,
 
-"BVISIBLE":"false",
+"BVISIBLE":"true",
 "MORETIPSLINK":"https://play.google.com/store/apps/details?id=com.blazers.ladys",
 
 
@@ -69,7 +69,18 @@
 	"moreappsgrid":[
 					
 			
-					
+				{
+						"picture":"https://play-lh.googleusercontent.com/sYDuyeUBpW7_JO0kAENHDLqKlYL0rZ_Gu_JtFoqNVjTBqGhf4W4H3DHb4h5GQEPA4A=s360-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.saksaks.soolsim",
+						"name":"Nicknames for games",
+						"type":"install"
+					},
+		{
+						"picture":"https://play-lh.googleusercontent.com/sYDuyeUBpW7_JO0kAENHDLqKlYL0rZ_Gu_JtFoqNVjTBqGhf4W4H3DHb4h5GQEPA4A=s360-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.saksaks.soolsim",
+						"name":"Nicknames for games",
+						"type":"install"
+					}	
 					
 				
 	]
